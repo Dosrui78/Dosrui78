@@ -5,11 +5,11 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Dosrui78/Dosrui78"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/Dosrui78/Dosrui78?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/Dosrui78/Dosrui78.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/Dosrui78/Dosrui78.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/Dosrui78/Dosrui78/graphs/contributors"><img src="https://img.shields.io/github/contributors/Dosrui78/Dosrui78?color=blue"></a>
+    <a href="https://github.com/Dosrui78/Dosrui78/stargazers"><img src="https://img.shields.io/github/stars/Dosrui78/Dosrui78.svg?logo=github"></a>
+    <a href="https://github.com/Dosrui78/Dosrui78/network/members"><img src="https://img.shields.io/github/forks/Dosrui78/Dosrui78.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Dosrui78.Dosrui78" alt="visitors"/>   
 </p>
 
