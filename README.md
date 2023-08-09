@@ -25,10 +25,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Dosrui78's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dosrui78&theme=github-compact)](https://github.com/Dosrui78/github-readme-activity-graph)
-
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Dosrui78's github stats](https://github-readme-stats.vercel.app/api?username=Dosrui78&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dosrui78&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dosrui78"></img>
